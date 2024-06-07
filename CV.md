@@ -6,12 +6,12 @@ Telegram @kolyagin_artem <br>
 +79265225472
 
 ### Ключевые компетенции
-Отлаживание процессов обеспечения качества ПО,
+Выстраивание процессов обеспечения качества ПО,
 функциональное тестирование, тест анализ, тестирование документации,
 автоматизация backend тестирования, найм QA специалистов.
 
 ### Инструменты и технологии
-Java 17, Retrofit, Jenkins, JUnit, REST, SOAP, Postman, MongoDB, SQL, Redis,
+Java, Retrofit, Jenkins, JUnit, REST, SOAP, Postman, MongoDB, SQL, Redis,
 BPMN, ELK.
 
 ## Опыт работы
